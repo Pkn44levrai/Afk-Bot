@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "bot",
-    "password": "your_password",
-    "type": "microsoft"
+    "username": "SenaCraftBot",
+    "password": "",
+    "type": ""
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "SenaCraft_44.aternos.me",
+    "port": 61647,
     "version": "1.19.3"
   },
 
@@ -26,8 +26,8 @@
 
     "anti-afk": {
       "enabled": false,
-      "sneak": false,
-      "jump": false,
+      "sneak": true,
+      "jump": true,
       "rotate": false,
 
       "hit": {
@@ -48,10 +48,8 @@
       "repeat-delay": 60,
 
       "messages": [
-        "I'm a regular player ",
-        "My owner is urFate_ ",
-        "I want be alone ",
-        "Visit my GitHub page! (urFate/Afk-Bot)"
+        "I'm the AkfBot of SenaCraft",
+        "Subscribe to PKN44 ! "
       ]
     },
 
